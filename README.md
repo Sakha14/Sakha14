@@ -1,4 +1,4 @@
-# Hi there, I'm @Sakha14 👋
+# Hi there, I'm Sakharam Nalwade 👋
 
 ### 👩‍💻 About Me
 I am a passionate Software Test Engineer with 3 years of experience in ensuring the quality of software applications through manual and automated testing. I thrive in dynamic environments and enjoy collaborating with development teams to deliver high-quality products.
@@ -11,8 +11,8 @@ I am a passionate Software Test Engineer with 3 years of experience in ensuring 
 - **Version Control:** Git, GitHub, GitLab,
 
 ### 📈 My Projects
-- **[E2E_UITesting](UITesting)
-- **[E2E_UIPractice](demo)
+- **[E2E_UITesting]([UITesting](https://github.com/Sakha14/UIPracticeQA/tree/main/UITesting))
+- **[E2E_UIPractice]([demo](https://github.com/Sakha14/UIPracticeQA/tree/main/demo))
 
 ### 🌱 I’m currently learning
 - Cypress
