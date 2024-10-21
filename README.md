@@ -11,8 +11,8 @@ I am a passionate Software Test Engineer with 3 years of experience in ensuring 
 - **Version Control:** Git, GitHub, GitLab,
 
 ### 📈 My Projects
-- **[E2E_UITesting]([UITesting](https://github.com/Sakha14/UIPracticeQA/tree/main/UITesting))
-- **[E2E_UIPractice]([demo](https://github.com/Sakha14/UIPracticeQA/tree/main/demo))
+- **[E2E_UITesting](https://github.com/Sakha14/UIPracticeQA/tree/main/UITesting)
+- **[E2E_UIPractice](https://github.com/Sakha14/UIPracticeQA/tree/main/demo)
 
 ### 🌱 I’m currently learning
 - Cypress
