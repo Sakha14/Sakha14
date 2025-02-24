@@ -16,6 +16,7 @@ I am a passionate Software Test Engineer with 3 years of experience in ensuring 
 
 ### 🌱 I’m currently learning
 - Cypress
+- Playwright
 
 ### 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sakharam-nalwade-5a55301b5/)
